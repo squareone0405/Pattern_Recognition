@@ -1,6 +1,6 @@
 # Pattern_Recognition
 
-Homework for Basis of Pattern Recognition
+Homework for Fundamentals of Pattern Recognition
 
 - hw1: Linear Regression
 - hw2: Linear Classification
